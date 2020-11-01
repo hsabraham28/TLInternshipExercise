@@ -13,7 +13,7 @@ First approach:<br/>
  -Used a list comprehension with conditions to filter URLS that included "covid" and another economics-related keyword<br/>
  -Used Pandas to put results in a CSV<br/>
  
- Complications and What I Woudld've Improved with More Time:<br/>
+ Complications and What I Would've Improved with More Time:<br/>
  -Couldn't get client.search() to work with searching multiple websites<br/>
     -Given more time I would've figured out a regex pattern to search over all website in the 2020 archives<br/>
  -Tried to use a for loop to search multiple websites<br/>
